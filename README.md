@@ -12,5 +12,5 @@ It was made to convert digital signals from an spi hall effect joystick to an an
         dac_front.PNG
 README.md
 
-![DAC Front View](/2-Channel-MCP-DAC/images/dac_front.PNG "DAC Front View")
+![DAC Front View](images/dac_front.PNG "DAC Front View")
 
